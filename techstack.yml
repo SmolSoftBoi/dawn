@@ -1,0 +1,144 @@
+repo_name: SmolSoftBoi/dawn
+report_id: 5908da3f011bf3d8642e58a676bb95b4
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-17T01:46:05+00:00'
+requested_by: SmolSoftBoi
+provider: github
+branch: main
+detected_tools_count: 11
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/SmolSoftBoi/dawn
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/SmolSoftBoi/dawn
+  detection_source: Repo Metadata
+- name: Liquid
+  description: Open-source template language written in Ruby
+  website_url: https://shopify.github.io/liquid
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1746/no-img-open-source.png
+  detection_source_url: https://github.com/SmolSoftBoi/dawn
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/SmolSoftBoi/dawn
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/SmolSoftBoi/dawn/blob/main/.github/workflows/ci.yml
+  detection_source: ".github/workflows/ci.yml"
+  last_updated_by: Andrew Etchen
+  last_updated_on: 2022-08-19 19:30:58.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 14.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/SmolSoftBoi/dawn/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kristian Matthews
+  last_updated_on: 2022-05-26 21:50:11.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/SmolSoftBoi/dawn/blob/main/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Kristian Matthews
+  last_updated_on: 2022-05-26 00:52:08.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/SmolSoftBoi/dawn/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Kristian Matthews
+  last_updated_on: 2022-05-26 00:52:08.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/SmolSoftBoi/dawn/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kristian Matthews
+  last_updated_on: 2022-05-26 21:50:11.000000000 Z
+- name: stylelint-config-recommended
+  description: Recommended shareable config for stylelint
+  package_url: https://www.npmjs.com/stylelint-config-recommended
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17664/default_551bd6e1eb9aebdd20755ea11f70c7494c135ca4.png
+  detection_source_url: https://github.com/SmolSoftBoi/dawn/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kristian Matthews
+  last_updated_on: 2022-05-26 21:50:11.000000000 Z
+- name: stylelint-order
+  description: A collection of order related linting rules for stylelint
+  package_url: https://www.npmjs.com/stylelint-order
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16709/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
+  detection_source_url: https://github.com/SmolSoftBoi/dawn/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kristian Matthews
+  last_updated_on: 2022-05-26 21:50:11.000000000 Z

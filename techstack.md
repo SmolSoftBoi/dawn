@@ -5,9 +5,9 @@ SmolSoftBoi/dawn is built on the following main stack:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Liquid](https://shopify.github.io/liquid) – Templating Languages & Extensions
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Stylelint](http://stylelint.io/) – Code Review
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -19,9 +19,9 @@ SmolSoftBoi/dawn is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1746/no-img-open-source.png' alt='Liquid'/> [Liquid](https://shopify.github.io/liquid) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg' alt='Stylelint'/> [Stylelint](http://stylelint.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [SmolSoftBoi/dawn](https://github.com/SmolSoftBoi/dawn)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|01/17/24 <br/>Report generated|
+|11<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
